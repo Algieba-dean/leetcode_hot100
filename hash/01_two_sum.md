@@ -34,7 +34,7 @@ Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 - `Only one valid answer exists.`
  
 
-Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
+**Follow-up**: Can you come up with an algorithm that is less than O(n2) time complexity?
 
 ## 暴力法
 最直接的解法,通过两层循环扫描
